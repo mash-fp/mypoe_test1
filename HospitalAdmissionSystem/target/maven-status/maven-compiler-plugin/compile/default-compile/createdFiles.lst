@@ -1,0 +1,7 @@
+com\mycompany\hospitaladmissionsystem\Main.class
+com\mycompany\hospitaladmissionsystem\Inpatient.class
+com\mycompany\hospitaladmissionsystem\ProjectManager.class
+com\mycompany\hospitaladmissionsystem\PatientCategory.class
+com\mycompany\hospitaladmissionsystem\BedManager.class
+com\mycompany\hospitaladmissionsystem\Patient.class
+com\mycompany\hospitaladmissionsystem\ReportManager.class
